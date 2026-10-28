@@ -1,0 +1,127 @@
+Privacy Policy
+
+5 Seconds Showdown
+
+Last updated: October 28, 2026
+
+This Privacy Policy describes how the 5 Seconds Showdown development team ("we", "our", or "us") collects, uses, and protects information when you use the mobile game 5 Seconds Showdown on the Android platform (Google Play).
+
+1. Information We Collect
+
+a. Information Collected Automatically
+
+When you use the game, certain information may be collected automatically through third-party services used to operate, improve, and monetize the game. This may include:
+
+- Device type, operating system, and technical device information
+
+- Device identifiers, including the Android Advertising ID (used for advertising and analytics)
+
+- Gameplay activity and usage statistics
+
+- IP address, which may be used to derive approximate (city-level) location and to provide multiplayer connectivity (precise location is never collected)
+
+- Purchase confirmations from Google Play when you buy Ore, described in Section 3
+
+b. Information You Provide
+
+The game does not require an account, email address, phone number, or real name to play. The only information you can provide is an optional in-game display name, described in Section 6.
+
+2. Advertising
+
+The game shows optional rewarded advertisements, provided by Google AdMob, only when you choose to watch one in exchange for an in-game benefit. The Google Mobile Ads SDK may process your Android Advertising ID, IP address and device information as described in Google's privacy policy. For players in regions where consent is required (such as the EEA and UK), a consent form is shown before any ads are served, and you can change or withdraw your consent through the game's privacy options. You can reset or delete your Advertising ID at any time in your device settings (Settings > Google > Ads).
+
+3. In-App Purchases
+
+The game offers optional purchases of Ore, an in-game currency, through Google Play Billing. Payments are handled entirely by Google; we never receive your payment card or billing details. The game receives a purchase confirmation from Google Play (the item bought and a purchase token) to deliver your Ore and to stop the same purchase being granted twice. A shortened code of that token is kept on your device and in your cloud save (Section 4). Purchases are subject to Google Play's terms and refund policy.
+
+4. Cloud Save
+
+If you are signed in to Google Play Games on your device, your game progress (including your Ore balance, your display name and your purchase records) is saved to your Google account through Google Play Games Services, so that you can restore it after reinstalling the game or on a new device. This copy is stored by Google, and you can delete it through your Google account's Google Play Games settings.
+
+5. Third-Party Services
+
+The game uses the following third-party services, each of which may collect information in accordance with its own privacy policy:
+
+- Google AdMob - in-game advertising (https://policies.google.com/privacy)
+
+- Google Firebase - analytics via Firebase Analytics (https://firebase.google.com/support/privacy)
+
+- Google Play Billing - processing of in-app purchases (https://policies.google.com/privacy)
+
+- Google Play Games Services - sign-in and cloud save of game progress (https://policies.google.com/privacy)
+
+- Unity Technologies - the game engine used to develop and run the application (https://unity.com/legal/privacy-policy)
+
+- Unity Gaming Services - online backend services, including leaderboards and server-side game logic, which store player identifiers and display names on Unity's servers (https://unity.com/legal/privacy-policy)
+
+- Google Play Services - platform services required for Android distribution (https://policies.google.com/privacy)
+
+- Photon Engine (Exit Games GmbH) - multiplayer networking, which processes IP addresses and connection data to enable online matches (https://www.photonengine.com/privacy)
+
+Users should review the privacy policies of these providers for more details.
+
+6. Display Names and Leaderboards
+
+You may choose a display name in the game. This display name, together with an anonymous player identifier, is stored on Unity Gaming Services servers and is visible to other players, including on global leaderboards and during online matches.
+
+Please do not use your real name or any information that could identify you as your display name. A content filter is applied to display names, but it cannot detect whether a name is a real name.
+
+If you would like a display name removed from our leaderboards, or believe a display name contains personal information, contact us at the address in Section 13 and we will remove it.
+
+7. Children's Privacy
+
+5 Seconds Showdown is not directed at children under the age of 13, and we do not knowingly collect personal information from children under 13.
+
+If you are a parent or guardian and believe that your child has provided personal information within the game (for example, by entering a real name as a display name), please contact us and we will delete it promptly.
+
+8. How We Use Information
+
+Information collected may be used to:
+
+- Operate the game and its online features, including multiplayer and leaderboards
+
+- Deliver Ore you purchase and prevent duplicate or fraudulent purchases
+
+- Back up and restore your game progress
+
+- Display advertisements and measure their performance
+
+- Improve the gameplay experience and analyze how players interact with the game
+
+- Fix bugs, crashes, and technical problems
+
+- Ensure the game runs properly on different devices
+
+- Detect and prevent fraud and abuse
+
+We do not sell personal information, and we do not share it with third parties except with the service providers listed in Section 5, as necessary to operate the game, process purchases and serve ads.
+
+9. Data Security
+
+We take reasonable measures to protect user information from unauthorized access, alteration, disclosure, or destruction. Data is encrypted in transit. However, no internet or electronic storage system can be guaranteed to be completely secure.
+
+10. Data Retention
+
+Gameplay analytics and advertising data are retained for as long as necessary to operate and improve the game, monitor performance, and fix technical problems. Display names and player identifiers are retained while used in the game and on leaderboards, and are removed on request. Your cloud save is kept in your Google account until you delete it. Purchase records are kept with your game progress so that purchases are not granted twice. Data handled by third-party providers is subject to their own retention policies.
+
+11. Your Choices and Rights
+
+- You can reset or delete your Advertising ID in your Android device settings at any time.
+
+- Where consent-based advertising applies, you can change or withdraw your consent through the game's privacy options.
+
+- You can delete your cloud save through your Google account's Google Play Games settings.
+
+- You can request removal of your display name and associated leaderboard entries by contacting us.
+
+- Depending on your region, you may have additional rights regarding your data (such as access or deletion). To exercise them, contact us at the address below.
+
+12. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last updated" date. Players are encouraged to review this policy periodically.
+
+13. Contact Information
+
+If you have any questions or concerns about this Privacy Policy, you may contact the developer:
+
+Email: chocoweb88@gmail.com
